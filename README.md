@@ -7,7 +7,7 @@ their customers and grow more sales in 2023.
 # Dataset used
 Vrinda Store Data
 
-#Questions (KPIs)
+# Questions (KPIs)
 
 1. Compare the sales and orders using single chart.
  
